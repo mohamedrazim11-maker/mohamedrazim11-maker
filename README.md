@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohamedrazim11-maker/mohamedrazim11-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👨‍💻 I'm Razim
 
-Here are some ideas to get you started:
+### Full-Stack Developer & BICT Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=mohamedrazim11-maker&color=cyan&style=flat-square)
+
+</div>
+
+---
+
+## 📌 About Me
+
+- 🚀 BICT Undergraduate student focusing on information and communication technology frameworks.
+- 💻 Passionate about Full-Stack Systems Architecture and Software Engineering practices.
+- 🛠️ Building real-world web applications while implementing optimized database models.
+- ⚡ Focused on mastering Next.js, PHP, C, and MySQL database engines.
+- 🔍 Always exploring backend scalability, procedural efficiency, and agile workflows.
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+[![Razim's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mohamedrazim11-maker&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+🎨 *Tip: You can add an image banner below your title just like the example by uploading an image to this repository!*
+
+</div>
